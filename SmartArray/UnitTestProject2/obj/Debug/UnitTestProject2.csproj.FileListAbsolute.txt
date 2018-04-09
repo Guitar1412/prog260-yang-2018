@@ -1,0 +1,16 @@
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\SmartArray.exe
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\SmartArray.pdb
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\SmartArray.exe.config
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

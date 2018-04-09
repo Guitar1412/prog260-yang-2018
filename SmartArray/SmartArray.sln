@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartArray", "SmartArray\SmartArray.csproj", "{BC537DCA-78F2-45C7-8ABC-4FEBCD5F2635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{F935C609-3B68-4F6C-A3AF-F3816FA177B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC537DCA-78F2-45C7-8ABC-4FEBCD5F2635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC537DCA-78F2-45C7-8ABC-4FEBCD5F2635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC537DCA-78F2-45C7-8ABC-4FEBCD5F2635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC537DCA-78F2-45C7-8ABC-4FEBCD5F2635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F935C609-3B68-4F6C-A3AF-F3816FA177B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F935C609-3B68-4F6C-A3AF-F3816FA177B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F935C609-3B68-4F6C-A3AF-F3816FA177B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F935C609-3B68-4F6C-A3AF-F3816FA177B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3372086A-C33E-4404-97A3-71E20FC4F9D5}
+	EndGlobalSection
+EndGlobal

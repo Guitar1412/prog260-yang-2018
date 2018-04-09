@@ -1,0 +1,14 @@
+C:\Users\kai-hsiang.yang\Desktop\PROG260\4.3.2018\SmartArray\SmartArray\bin\Debug\SmartArray.exe.config
+C:\Users\kai-hsiang.yang\Desktop\PROG260\4.3.2018\SmartArray\SmartArray\bin\Debug\SmartArray.exe
+C:\Users\kai-hsiang.yang\Desktop\PROG260\4.3.2018\SmartArray\SmartArray\bin\Debug\SmartArray.pdb
+C:\Users\kai-hsiang.yang\Desktop\PROG260\4.3.2018\SmartArray\SmartArray\obj\Debug\SmartArray.csprojResolveAssemblyReference.cache
+C:\Users\kai-hsiang.yang\Desktop\PROG260\4.3.2018\SmartArray\SmartArray\obj\Debug\SmartArray.csproj.CoreCompileInputs.cache
+C:\Users\kai-hsiang.yang\Desktop\PROG260\4.3.2018\SmartArray\SmartArray\obj\Debug\SmartArray.exe
+C:\Users\kai-hsiang.yang\Desktop\PROG260\4.3.2018\SmartArray\SmartArray\obj\Debug\SmartArray.pdb
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\SmartArray\bin\Debug\SmartArray.exe.config
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\SmartArray\bin\Debug\SmartArray.exe
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\SmartArray\bin\Debug\SmartArray.pdb
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\SmartArray\obj\Debug\SmartArray.csprojResolveAssemblyReference.cache
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\SmartArray\obj\Debug\SmartArray.csproj.CoreCompileInputs.cache
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\SmartArray\obj\Debug\SmartArray.exe
+C:\Users\guita\Desktop\SPRING2018\PROG260\4.3.2018\SmartArray\SmartArray\obj\Debug\SmartArray.pdb
